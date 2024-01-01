@@ -1,0 +1,16 @@
+/* @media(max-width:768px){
+    .navbar-nav>li>a {
+        margin: 2px;
+       margin-top:5px; 
+        padding:2px;
+      padding-top: 10px;
+        display:block;
+        border:.2rem solid rgba(0,0,0,.1);
+        border-left:.5rem solid rgb(252,92,4);
+        background: rgb(243, 243, 246);
+        color: black;
+    }
+    .container{
+        background-color: white;
+    }
+} */
